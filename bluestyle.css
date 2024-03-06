@@ -1,8 +1,12 @@
 body {
-    background-color: lightblue;
+    background-color: pink;
+    background-color: black;
+    
     }
     
+
     h1 {
-    color: navy;
+    color: rgb(230, 117, 255);
     margin-left: 20px;
+    font-size: 50px;
     }
